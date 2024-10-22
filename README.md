@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Analysis
+# Bank-Customer-Churn-Analysis & Prediction
 A deep dive into bank customer data to understand why customers leave and how data-driven insights can help improve retention.
 
 In this project, I aimed to understand and predict customer churn for a bank by analyzing and preparing customer data. The main business goal was to identify the key factors that lead customers to leave the bank, which could then help in developing strategies to retain them.
